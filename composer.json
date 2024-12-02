@@ -34,13 +34,6 @@
             "KirschbaumDevelopment\\NovaComments\\": "src/"
         }
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "KirschbaumDevelopment\\NovaComments\\NovaCommentsServiceProvider"
-            ]
-        }
-    },
     "config": {
         "sort-packages": true
     },
